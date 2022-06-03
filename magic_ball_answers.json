@@ -1,0 +1,6 @@
+{
+  "positive": ["Undoubtedly", "It's a foregone conclusion", "Without any doubts", "Definitely yes", "You can be sure of it"],
+  "hesitantly positive":  ["I think so", "Most likely", "Good prospects", "The signs say yes", "Yes"],
+  "neutral": ["Not sure yet, try again", "Ask later", "Better not tell", "Can't predict right now", "Concentrate and ask again"],
+  "negative": ["Do not even think", "My answer is no", "According to my information, no", "Prospects are not very good", "Highly doubtful"]
+}
